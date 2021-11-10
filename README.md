@@ -43,5 +43,3 @@ list of fruits
 
  ___
  ___
-
-shukri
